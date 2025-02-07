@@ -266,7 +266,7 @@ onMounted(() => {
 .noise-overlay {
   position: absolute;
   inset: 0;
-  background-image: url('@/assets/noise.png');
+  /* background-image: url('@/assets/noise.png'); */
   opacity: 0.05;
   mix-blend-mode: overlay;
 }
